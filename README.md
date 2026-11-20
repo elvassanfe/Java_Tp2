@@ -2,7 +2,6 @@
 # TP 2: UDP Client-Server with Java Sockets
 
 **Course:** Java for Networks — 3RTS (ENSEA)  
-**Instructor:** Linda Senigagliesi  
 **Academic Year:** 2026–2027  
 
 ## Overview

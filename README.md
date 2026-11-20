@@ -19,7 +19,7 @@ This repository contains the Java implementation and experimental exercises for 
 
 ## Prerequisites
 
-* **Java Development Kit (JDK) 14 or higher** (JDK 17 / 21 / 24 recommended).  
+* **Java Development Kit (JDK) 14 or higher**.  
   *Note: JDK 14+ is required for the non-deprecated `MulticastSocket.joinGroup(SocketAddress, NetworkInterface)` method used in `MulticastReceiver`.*
 * **IntelliJ IDEA** (or any terminal with `javac` and `java`).
 * Optional: `nc` (Linux/macOS), `ncat` (Windows Nmap), and **Wireshark** for packet inspection.
